@@ -83,7 +83,6 @@ The application includes the following charts
 
 
 
-
 ---
 
 ## Contributors

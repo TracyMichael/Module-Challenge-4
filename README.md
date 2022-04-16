@@ -79,7 +79,9 @@ The application includes the following charts
 
 **A display of the Sharpe Ratio Chart is listed below**
 
-![SR](https://github.com/TracyMichael/Module-Challenge-4/blob/main/images/Sharpe_Ratio.png)
+![SR](https://github.com/TracyMichael/Module-Challenge-4/blob/main/images/Sharpe%20Ratio.png)
+
+
 
 
 ---

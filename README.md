@@ -33,7 +33,7 @@ Further details denoting requirements and verions are available in the requireme
 
 ## Installation Guide
 
-This app will not work without the proper technologies listed above.  To ensure you have the applicable tools please install the requirements for the Loan Qualifying Application using the text file in the loan_qualifier_app folder as follows:
+This app will not work without the proper technologies listed above.  To ensure you have the applicable tools please install the requirements for the Risk Return Analysis Application using the text file in the Module-Challenge-4 folder as follows:
 
 In The Terminal Run:
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt 
 3. Prepare and analyze the data for return and volatility metrics.  Various Charts bring visualization to the data. 
 
 
-### **For Users:** Use the Crypto Arbitrage Application to understand Historical data from Bitstamp and Coinbase:
+### **For Users:** Use the Risk Return Analysis Application to gain Portfolio insight around Risk, Volatility, and Return expectations:
 
 The application includes the following charts
 
@@ -79,7 +79,7 @@ The application includes the following charts
 
 **A display of the Sharpe Ratio Chart is listed below**
 
-![CP](https://github.com/TracyMichael/Module-Challenge-3/blob/main/Starter_Code-2/images/Cumulative_Profits_Jan_16th_2018.png)
+![CP](https://github.com/TracyMichael/Module-Challenge-4/blob/main/images/Sharpe_Ratio.png)
 
 
 ---
